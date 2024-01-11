@@ -26,6 +26,8 @@ function bubbleSort(arr) {
     return sortedArr
 }
 
+// Big-O O(n^2)
+
 
 const unsortedArr = [-6, 20, 8, -2, 4]
 
